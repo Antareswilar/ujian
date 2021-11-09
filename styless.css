@@ -1,0 +1,36 @@
+img{
+    border-radius: 1%
+  }
+h2 {
+    color: #a51cdb ;
+    position : relative;
+    bottom: 1px;
+    left: 460px;
+  }
+p{
+    color: blue
+}
+body>p {
+    background-color: pink;
+  }
+ul{
+    background-color: purple;
+    color: red ;
+}
+table{
+    color: #8540a0 ;
+    background-color: gray;
+}
+a:visited {
+	color: rgb(65, 66, 61);
+}
+div em {
+	color: rgb(221, 241, 145);
+}
+input{
+    border-color:  green;
+    border-width: 2px;
+  }
+fieldset{
+    background-color: rgb(235, 45, 187);
+}
